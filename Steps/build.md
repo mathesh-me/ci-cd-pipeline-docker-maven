@@ -12,7 +12,7 @@ Create a directory named "pipeline."
 
 ## Step 3: Navigate to the 'pipeline' Directory
 
-Change to the "pipeline" directory.
+Change to the "pipeline" directory and Create another directory named "jenkins."
 
 ## Step 4: Create and Edit Dockerfile
 
@@ -119,6 +119,11 @@ Build the Maven project within the "java-app" directory:
 ```
 
 ## Step 13: Copy the JAR File
+Navigate back to the "pipeline/jenkins/build" directory:
+
+```
+cd jenkins/build
+```
 Copy the JAR file from the "java-app/target" directory:
     
 ```
