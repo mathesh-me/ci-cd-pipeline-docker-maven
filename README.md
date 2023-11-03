@@ -77,8 +77,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License 📄
 This project is licensed under the MIT License. See the LICENSE.md file for details.
 
-## Author 👨‍💻
-- [Linkedin](https://www.linkedin.com/in/mathesh-me/)
-- [Medium](medium.com/@mathesh-me)
-
-
+## Contact 📧
+If you have any questions, feel free to reach out to me
+- [LinkedIn](https://www.linkedin.com/in/mathesh-me/)
+- Mail :matheshme@outlook.com
