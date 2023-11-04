@@ -3,6 +3,10 @@
 ## Project Description 📄
 Streamline a Java application development with a robust CI/CD pipeline. Automated building, testing, and deployment for efficient development workflows.
 
+## Workflow Diagram 📊
+![worflow](https://github.com/mathesh-me/ci-cd-pipeline-docker-maven/assets/144098846/f113d284-4dcb-4583-88d7-ce5b0cc475a4)
+
+
 ## Features ✨
 - **Efficient Build Process**: Automate the compilation of our Java code using Maven. Create a deployable JAR and build a Docker image for our application. Archive successful artifacts for future reference.
 
