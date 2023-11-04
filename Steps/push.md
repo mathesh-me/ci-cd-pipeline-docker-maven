@@ -51,3 +51,9 @@ chmod +x push.sh
 ```
 cd ../..
 ```
+## Step 4 : Execute the push.sh script
+- Run the push.sh script:
+```
+./jenkins/push/push.sh
+```
+- It will push the image to docker hub
