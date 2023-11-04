@@ -7,7 +7,7 @@
 - Select 'Git' in the 'SCM' dropdown
 - Give the repository URL as
 ```
-https://github.com/Ehg-00/pipeline-1
+https://github.com/your-user-name/repo-name.git
 ```
 - Click 'Save'
 - Click 'Build Now'
