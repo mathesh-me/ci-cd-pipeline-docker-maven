@@ -40,3 +40,5 @@ Run the test.sh script to test the code:
 ```
 ./jenkins/test/test.sh
 ```
+- It will run the test cases and show the output as 'Success' or 'Failure'
+- And store the test results in the target folder as `surefire-reports` folder.
