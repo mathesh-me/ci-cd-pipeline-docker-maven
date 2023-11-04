@@ -117,6 +117,7 @@ Build the Maven project within the "java-app" directory:
 ```
 ./jenkins/build/build-jar.sh mvn -B -DskipTests clean package
 ```
+- It will create a jar file in the target folder
 
 ## Step 13: Copy the JAR File
 Navigate back to the "pipeline/jenkins/build" directory:
@@ -218,3 +219,4 @@ Run the build.sh script:
 ```
 ./jenkins/build/build.sh
 ```
+- It will create a docker image with name maven:2
