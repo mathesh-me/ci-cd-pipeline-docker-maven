@@ -9,6 +9,11 @@
 ```
 https://github.com/your-user-name/repo-name.git
 ```
+or you can use my repository URL
+```
+```
+https://github.com/Ehg-00/pipeline-1.git
+```
 - Click 'Save'
 - Click 'Build Now'
 - For first time it will fail because we have to add `/home/ubuntu/jenkins_home/workspace/maven-project` instead of $PWD in the `build-jar.sh` file and `test.sh` file.
