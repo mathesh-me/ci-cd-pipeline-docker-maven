@@ -11,7 +11,6 @@ https://github.com/your-user-name/repo-name.git
 ```
 or you can use my repository URL
 ```
-```
 https://github.com/Ehg-00/pipeline-1.git
 ```
 - Click 'Save'
@@ -25,3 +24,11 @@ https://github.com/Ehg-00/pipeline-1.git
 - If you see the output as 'Success' then the pipeline is working fine
 - If you see the output as 'Failure' then check the error and fix it
 - If you see the output as 'Aborted' then check the error and fix it
+- May be you will find errors but keep troubleshooting , I also got errors many times
+
+![errors](https://github.com/mathesh-me/ci-cd-pipeline-docker-maven/assets/144098846/e88d82f2-5d4a-4847-83e6-0f96abfbaca5)
+
+
+## Final Result
+
+![hw-3](https://github.com/mathesh-me/ci-cd-pipeline-docker-maven/assets/144098846/2af56b98-dea7-45cc-b4d2-fa019cdf99ca)
